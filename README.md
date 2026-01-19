@@ -1,0 +1,1 @@
+# AS_TEST_KICAD
