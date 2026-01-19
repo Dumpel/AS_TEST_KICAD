@@ -1283,7 +1283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "056cb71f-dac3-460f-abee-3ffa12110a23")
-		(property "Reference" "U2"
+		(property "Reference" "UU2"
 			(at 85.09 39.37 0)
 			(effects
 				(font
@@ -2352,4 +2352,5 @@
 	)
 	(embedded_fonts no)
 )
+
 
