@@ -1283,7 +1283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "056cb71f-dac3-460f-abee-3ffa12110a23")
-		(property "Reference" "UU2"
+		(property "Reference" "NUU2"
 			(at 85.09 39.37 0)
 			(effects
 				(font
@@ -1291,7 +1291,7 @@
 				)
 			)
 		)
-		(property "Value" "1"
+		(property "Value" "111"
 			(at 85.09 41.91 0)
 			(effects
 				(font
@@ -1371,7 +1371,7 @@
 		(instances
 			(project ""
 				(path "/89bd3ee2-3ab2-4286-811b-680b5e346a6d"
-					(reference "Uuu1")
+					(reference "NuuUuu1")
 					(unit 1)
 				)
 			)
@@ -2352,6 +2352,7 @@
 	)
 	(embedded_fonts no)
 )
+
 
 
 
